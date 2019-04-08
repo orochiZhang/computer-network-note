@@ -47,13 +47,13 @@ TCP是面向连接的，也就是说，在连接持续的过程中，socket中�
 
 3. RTO = SRTT + max(G, K*RTTVAR) , K = 4
 ```
-后续的RTO计算,假设当前的RTT为R',RTTVAR'，SRTT'是上一次的RTTVAR，SRTT
+后续的RTO计算,假设当前的RTT为R，RTTVAR'，SRTT'是上一次的RTTVAR，SRTT。
 ```
 计算平滑RTT和真实RTT的差距
-RTTVAR = (1 - beta)*RTTVAR' + beta*|SRTT' - R'|   
+RTTVAR = (1 - beta)*RTTVAR' + beta*|SRTT' - R|   
 
 计算平滑RTT
-SRTT = (1 - alpha)*SRTT' + alpha*R' 
+SRTT = (1 - alpha)*SRTT' + alpha*R 
 
 RTO = SRTT + max(G, K*RTTVAR)
 
