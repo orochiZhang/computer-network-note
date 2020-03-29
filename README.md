@@ -21,11 +21,13 @@ IP地址配置  | DHCP| UDP
 网络管理    | SNMP| UDP
 文件传输    | FTP | TCP
 文件传输    | TFTP| UDP
+电子邮件    | SMTP| TCP
 
 ## 传输层
 - [TCP与UDP](https://github.com/orochiZhang/computer-network-note/blob/master/Transportlayer/TCP_and_UDP.md)
 - [TCP](https://github.com/orochiZhang/computer-network-note/blob/master/Transportlayer/TCP.md)
 - UDP
+- Socket
 
 ## 网络层
 - IP
