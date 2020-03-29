@@ -23,10 +23,12 @@ IP地址配置  | DHCP| UDP
 文件传输    | TFTP| UDP
 
 ## 传输层
-- [TCP与UDP](https://github.com/orochiZhang/computer-network-note/blob/master/%E4%BC%A0%E8%BE%93%E5%B1%82/TCP%E4%B8%8EUDP.md)
+- [TCP与UDP](https://github.com/orochiZhang/computer-network-note/blob/master/%E4%BC%A0%E8%BE%93%E5%B1%82/TCP_and_UDP.md)
+- [TCP](https://github.com/orochiZhang/computer-network-note/blob/master/%E4%BC%A0%E8%BE%93%E5%B1%82/TCP.md)
+- UDP
 
 ## 网络层
-- 
+- IP
 - [IP地址分类，子网划分，CIDR构造超网](https://github.com/orochiZhang/computer-network-note/blob/master/%E7%BD%91%E7%BB%9C%E5%B1%82/IP%E5%9C%B0%E5%9D%80%E5%88%86%E7%B1%BB%EF%BC%8C%E5%AD%90%E7%BD%91%E5%88%92%E5%88%86%EF%BC%8CCIDR%E6%9E%84%E9%80%A0%E8%B6%85%E7%BD%91.md)
 - ARP
 - [ICMP/IGMP](https://github.com/orochiZhang/computer-network-note/blob/master/%E7%BD%91%E7%BB%9C%E5%B1%82/ICMP_and_IGMP.md)
