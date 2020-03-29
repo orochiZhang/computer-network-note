@@ -33,4 +33,9 @@ IP地址配置  | DHCP| UDP
 - ARP
 - [ICMP/IGMP](https://github.com/orochiZhang/computer-network-note/blob/master/%E7%BD%91%E7%BB%9C%E5%B1%82/ICMP_and_IGMP.md)
 
-## 数据链路层
+## 数据链路层/计算机网络硬件
+这一层的文章基本上是转载，基本上接触不到，无法验证，也买不起路由器和交换机实践。
+- [外部网关协议BGP](https://github.com/orochiZhang/computer-network-note/blob/master/DataLinkLayer/BGP.md)
+- [内部网关协议RIP/OSPF](https://github.com/orochiZhang/computer-network-note/blob/master/DataLinkLayer/RIP_and_OSPF.md)
+- [路由器与交换机](https://github.com/orochiZhang/computer-network-note/blob/master/DataLinkLayer/Router_and_Switch.md)
+
