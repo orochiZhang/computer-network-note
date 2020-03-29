@@ -104,7 +104,7 @@ TCP流控算法的关键，是基于丢包，有否丢包是唯一的判断依�
 只有情况1是需要踩刹车的，而情况2、3并不需要。
 
 **慢开始和快恢复经典对比图**：
-![image](https://raw.githubusercontent.com/orochiZhang/computer-network-note/master/Pictures/congestion-avoidance.png?token=APrdv3RYRjj8GhZdegKiLuxzsNNMWZAZks5cs_2pwA%3D%3D)
+![image](https://github.com/orochiZhang/computer-network-note/blob/master/Pictures/congestion-avoidance.png)
 
 ## TCP自动重传请求
 自动重传请求（Automatic Repeat-reQuest，ARQ）是OSI模型中数据链路层的错误纠正协议之一。它包括停止等待ARQ协议和连续ARQ协议，错误侦测（Error Detection）、正面确认（Positive Acknowledgment）、逾时重传（Retransmission after Timeout）与负面确认继以重传（Negative Acknowledgment and Retransmission）等机制。
