@@ -33,6 +33,10 @@
   2. [内部网关协议RIP/OSPF](https://github.com/orochiZhang/computer-network-note/blob/master/Networklayer/RIP_and_OSPF.md)
 
 ## 数据链路层/计算机网络硬件
+IEEE802系列标准把数据链路层分成LLC（Logical Link Control，逻辑链路控制）和MAC（Media Access Control，介质访问控制）两个子层。   
+LLC子层实现数据链路层与硬件无关的功能，比如流量控制、差错恢复等。   
+MAC子层提供LLC和物理层之间的接口。    
+
 - [路由器与交换机](https://github.com/orochiZhang/computer-network-note/blob/master/DataLinkLayer/Router_and_Switch.md)
 
 ## 参考书籍
