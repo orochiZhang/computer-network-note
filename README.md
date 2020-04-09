@@ -40,6 +40,6 @@ IGP（Interior Gateway Protocol,内部网关协议）是在一个自治网络内
 - [路由器与交换机](https://github.com/orochiZhang/computer-network-note/blob/master/DataLinkLayer/Router_and_Switch.md)
 
 ## 参考书籍
--《计算机网络自顶向下方法》
--《图解网络硬件》
--《图解TCP/IP》
+- 《计算机网络自顶向下方法》
+- 《图解网络硬件》
+- 《图解TCP/IP》
