@@ -7,7 +7,7 @@
   1. [HTTP协议基础解析](https://github.com/orochiZhang/computer-network-note/blob/master/Applicationlayer/HTTP_data_structure.md)
   2. [HTTP的请求方法和幂等性](https://github.com/orochiZhang/computer-network-note/blob/master/Applicationlayer/HTTP_Method_Idempotent.md)
 
-- DHCP
+- [DHCP](https://baike.baidu.com/item/DHCP/218195)
 - RIP
 - DNS
 - SNMP
