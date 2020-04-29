@@ -10,9 +10,9 @@
 - [DHCP](https://baike.baidu.com/item/DHCP/218195)
 - RIP
 - DNS
-- SNMP
+- [SNMP](https://baike.baidu.com/item/%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%8D%8F%E8%AE%AE/2986113)
 - FTP
-- TFTP
+- [TFTP](https://baike.baidu.com/item/tftp/455170)
 
 ## Socket
 - Socket的五种IO模型
